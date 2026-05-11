@@ -1,4 +1,4 @@
-
+Enhance VMware Fusion for macOS with VMware Fusion for macOS custom Addon: VM-management & window-management, the #1 addon. Includes VM-management and window-management for a
 
 
 
